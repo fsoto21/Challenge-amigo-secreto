@@ -1,4 +1,4 @@
-Amigo Secreto
+Challenge Amigo Secreto
 
 Descripción
 Aplicación web para realizar un sorteo de amigo secreto. Los usuarios pueden agregar nombres y sortear aleatoriamente a un participante.
